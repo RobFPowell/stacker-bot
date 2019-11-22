@@ -1,0 +1,16 @@
+{
+  "name": "yvebot-examples-web",
+  "version": "1.0.0",
+  "description": "yve-bot examples - web",
+  "main": "index.js",
+  "author": "Anderson de Oliveira <andersonba@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.15.4",
+    "https": "^1.0.0",
+    "mailchimp-api-v3": "^1.13.1",
+    "nodemailer": "^6.3.1",
+    "request": "^2.88.0"
+  }
+}
